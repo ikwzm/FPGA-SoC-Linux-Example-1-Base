@@ -1,6 +1,6 @@
 [submodule "PUMP_AXI4"]
 	path = PUMP_AXI4
-	url = git://github.com/ikwzm/PUMP_AXI4
+	url = https://github.com/ikwzm/PUMP_AXI4
 [submodule "LED_AXI"]
 	path = LED_AXI
-	url = git://github.com/ikwzm/LED_AXI
+	url = https://github.com/ikwzm/LED_AXI
